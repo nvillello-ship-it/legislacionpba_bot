@@ -1,3 +1,8 @@
-python-telegram-bot==20.3
+python-telegram-bot>=20.3
 pandas
 requests
+openpyxl
+rapidfuzz
+Unidecode
+# Opcional (si más adelante activamos IA con clave):
+openai
